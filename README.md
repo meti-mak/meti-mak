@@ -5,6 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meti-mak.meti-mak" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meti-mak&label=Profile%20views&color=0e75b6&style=flat" alt="meti-mak" /> </p>
 
 <p align="left"> <a href="https://twitter.com/metasebia merkin" target="blank"><img src="https://img.shields.io/twitter/follow/metasebia merkin?logo=twitter&style=for-the-badge" alt="metasebia merkin" /></a> </p>
